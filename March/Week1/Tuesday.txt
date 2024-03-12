@@ -1,0 +1,5 @@
+I learnt how to set up my git
+I  also learnt how to clone a repository 
+I got introduced to open sourcing and forking a repository
+I also participate in a github task
+ 

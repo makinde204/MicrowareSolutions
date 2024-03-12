@@ -1,9 +1,13 @@
-Introduction to the Team
+I was introduction to the Team
 
 I was introduce to the Microware team. I was also put in Microware's cloud team.
 
 To kick-start my internship program I was introduced to Git, GitHub and cloud computing
 
+I created my first repsitory on github 
+I installed git 
+
 GitHub is ...
 
 Cloud computing is ...
+
