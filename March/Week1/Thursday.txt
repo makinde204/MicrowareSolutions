@@ -1,3 +1,5 @@
 14/03/2024
 Today I:
 ->Made my daily commit 
+create a google cloud platform micrsoft azure and AWS
+Created a bucket on the google cloud platform
