@@ -1,5 +1,8 @@
-I learnt how to set up my git
-I  also learnt how to clone a repository 
-I got introduced to open sourcing and forking a repository
-I also participate in a github task
+12/03/2024
+Today I:
+->Made my daily commit on github 
+->Learnt how to set up my git 
+->learnt how to clone a repository 
+->Got introduced to open sourcing and forking a repository
+->participated in a github task
  

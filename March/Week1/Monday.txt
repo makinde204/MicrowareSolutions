@@ -1,14 +1,14 @@
-I was introduction to the Team
+11/03/2024
+Today 
+-I was introduction to the Team
 
-I was introduce to the Microware team. I was also put in Microware's cloud team.
+->I was introduce to the Microware team. I was also put in Microware's cloud team.
 
-To kick-start my internship program I was introduced to Git, GitHub and cloud computing
+->To kick-start my internship program I was introduced to Git, GitHub and cloud computing
+->I created my first repsitory on github 
+->I installed git 
 
-I created my first repsitory on github 
-I installed git 
 
-
-GitHub is a web-based platform used for version control and collaboration on software projects. It offers hosting for Git repositories, which allows developers to store and manage their code, track changes over time, and collaborate with others.
-
-Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, and more—over the internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale
+->GitHub is a web-based platform used for version control and collaboration on software projects. It offers hosting for Git repositories, which allows developers to store and manage their code, track changes over time, and collaborate with others.
+->Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, and more—over the internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale
 
