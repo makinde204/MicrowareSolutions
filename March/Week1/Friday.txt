@@ -3,4 +3,5 @@ Today I:
 -> I made my daily commit   
 ->  I learnt how to start,restart an stop a server through two different methods 
 -Through the console on the webpage 
--Through the command prompt 
+-Through the CLI(Command Line Interface) 
+    -A CLI, which stands for Command-Line Interface, is a way to interact with a computer program using text commands. 
