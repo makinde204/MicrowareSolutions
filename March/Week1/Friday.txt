@@ -1,3 +1,6 @@
 15/03/2024
 Today I:
--> I made my daily commit 
+-> I made my daily commit   
+->  I learnt how to start,restart an stop a server through two different methods 
+-Through the console on the webpage 
+-Through the command prompt 
