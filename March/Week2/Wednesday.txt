@@ -2,3 +2,4 @@
 Today I:
 ->Made my daily commit 
 ->Learnt about control low in python programming language 
+->Learnt about randomization in python,How to get random number,float integers
