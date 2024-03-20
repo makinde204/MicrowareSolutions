@@ -3,3 +3,4 @@ Today I:
 ->Made my daily commit 
 ->Learnt about control low in python programming language 
 ->Learnt about randomization in python,How to get random number,float integers
+->I also Learnt  about a type of data structure,List,how to create a list and get items from the list 
