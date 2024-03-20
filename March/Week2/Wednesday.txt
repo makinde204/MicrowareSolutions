@@ -1,3 +1,4 @@
 20/03/2024
 Today I:
 ->Made my daily commit 
+->Learnt about control low in python programming language 
