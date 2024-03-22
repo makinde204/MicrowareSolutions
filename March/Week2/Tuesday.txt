@@ -1,3 +1,6 @@
 19/03/2024
 Today I:
 ->Made my daily commit
+I learnt about control flow,
+i worked with if statements,if ...elif  statements
+I wrote some codes on some exercises,and i created a teeasure game,also a pizza delivery system 

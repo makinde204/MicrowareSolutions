@@ -1,4 +1,7 @@
 18/03/2024
 Today I:
 ->Made my daily commit 
-
+we started Python programming language 
+i went through dayone and day two of the course 
+I learnt about variabeles,strings,data type concerting,some python syntax such as input(),print().
+How to assign a variable and how to collect input 
