@@ -1,4 +1,4 @@
 27/03/2024
 Today I
     Made my daily commit 
-    
+    I worked with functions in python and worked on three exercises that had to do with functions
