@@ -2,3 +2,4 @@
 Today I:
 Made my daily commit 
 Created an auction program in python 
+Started working on functions and how to create output functions in python 
