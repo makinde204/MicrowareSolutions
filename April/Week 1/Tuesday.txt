@@ -1,3 +1,4 @@
 02/04/2024
 Today I:
 Made my daily commit 
+Created an auction program in python 
