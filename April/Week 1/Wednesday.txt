@@ -1,3 +1,4 @@
 03/04/2024
 Today I:
 Made my daily commit
+Created a Data Transformation Pipeline with the use of Cloud Dataprep
