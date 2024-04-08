@@ -1,3 +1,8 @@
 05/04/2024
 Today I:
 Made my dailyy commit
+I created a Blachjack capstone project in python
+i created a list to represent the deck of cards,made use of if statements and for loops to control the logic 
+I learnt about SQL a structure query language used to manage data in relational databases 
+
+
