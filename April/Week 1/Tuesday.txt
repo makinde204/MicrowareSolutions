@@ -1,5 +1,6 @@
 02/04/2024
 Today I:
 Made my daily commit 
-Created an auction program in python 
+I worked on an aunction program
 Started working on functions and how to create output functions in python 
+I explored dictionaries and nesting for data organization,I learnt how to structure data efficiently using dictionary structure
