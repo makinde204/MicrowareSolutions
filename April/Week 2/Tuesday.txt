@@ -1,3 +1,8 @@
 9/04/2024
+<<<<<<< HEAD
 Today I:
 Made a commit 
+=======
+Made my daily commit
+
+>>>>>>> 4a0fc0bc6a5cd3e8c9389ec89de218db5d256494

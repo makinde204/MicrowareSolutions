@@ -1,2 +1,6 @@
 8/04/2024
 Today i made my daily commit 
+I looked at scopes in pyhton programming language 
+I worked on activities usinf the global scope and also thr local scope 
+With the knowledge of what i learnt i programmed a number guessing game
+

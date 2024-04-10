@@ -1,3 +1,4 @@
 04/04/2024
 Today I:
 Made daily commit 
+I developed a calculator program using dictionaries,levergaed dictionaries to create a functional calcu;lator program

@@ -2,3 +2,4 @@
 Today I:
 Made my daily commit
 Created a Data Transformation Pipeline with the use of Cloud Dataprep
+I built a data transformation pipeline using dataprep streamlined data transformation using coud dataprep
