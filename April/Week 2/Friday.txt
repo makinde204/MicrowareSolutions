@@ -1,3 +1,5 @@
 12/04/2024
 Today I:
 Made my commit 
+I created a higher lower game 
+i craeted a cofee machine simulator project 
