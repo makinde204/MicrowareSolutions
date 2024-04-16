@@ -1,3 +1,15 @@
 16/04/2024
 Today I:
 Made my daily commit 
+I learnt and worked on Objects,creation of Class and creations of methods and attributes of the class 
+i worked on a coding exercise that involved the use of class and objects 
+I also worked on othe exercises such where:
+
+	Exercise #1: Hello, World!.
+	Exercise #2: Temperature Conversion 
+	Exercise #3: Odd & Even 
+	Exercise #4: Area & Volume.
+	Exercise #5: Fizz Buzz .
+	Exercise #6: Ordinal Suffix 
+	Exercise #7: ASCII Table.
+	Exercise #8: Chess Square Color.
