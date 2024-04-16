@@ -1,3 +1,6 @@
 15/04/2024
 Today I:
 I made my daily commit 
+I learnt anf worked on SQL,
+I used most of its syntax,worked with the SELECT-To select data from a table,ORDER BY-This is to order data by a column , WHERER is used as a condition statement 
+I started working with class and objects 
