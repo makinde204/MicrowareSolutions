@@ -1,0 +1,9 @@
+25/04/2024
+Today I:
+Made my daily commit 
+Learnt about data literacy where i got introduced to Databases and its types
+relational databases and Non relational databases 
+Data sourcing 
+Matadata and its types
+NoSQL 
+Data lakes,marts and warehousing 
