@@ -1,0 +1,5 @@
+26/04/2024
+Today I:
+Made my daily commit 
+Performed an SAP activity
+I updated the NCD and Taxable amount in the AP invoice module 
