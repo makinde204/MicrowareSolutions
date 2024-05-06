@@ -1,2 +1,0 @@
-Made daily commit 
-worked on SQL in data science 
