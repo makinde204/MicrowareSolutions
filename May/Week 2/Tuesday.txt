@@ -1,0 +1,4 @@
+7/05/2024
+Made daily commit 
+Worked on requirements in collection of data 
+worked on modelling data for predictive analysis 
