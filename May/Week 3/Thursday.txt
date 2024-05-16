@@ -1,2 +1,11 @@
 16/05/2024
 Made daily commit
+I worked with Numpy library 
+I worked with some of its methods
+import Numpy as np
+np.array([1,2,3,4])  ----Syntax
+
+meaan()
+sum()
+max()
+mn()
