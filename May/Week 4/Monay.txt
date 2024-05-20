@@ -1,2 +1,6 @@
 20/05/2024
 Made daily commit 
+Used Webscraping to extract required GDP information from a website
+Use Pandas to load and process the tabular data as a dataframe, using the pandas read URL method to read the website URL 
+Use Numpy to manipulate the information contatined in the dataframe.
+Load the updated dataframe to CSV file.
