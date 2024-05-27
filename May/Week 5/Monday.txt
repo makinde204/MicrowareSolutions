@@ -1,2 +1,3 @@
 27/05/2024
 Made daily commit
+Worked on web scraping using the Beautifulsoap library and the requests library 
