@@ -1,2 +1,4 @@
 29/05/2024
 Made my daily commit
+Data Visualization of a set of Diabetic and Non-Diabetic people with the use of the matplotlib and the seaborn libraries and used a piechart as the display 
+plt.pie()
