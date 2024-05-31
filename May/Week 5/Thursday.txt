@@ -1,2 +1,4 @@
 30/05/2024
 Made daily commit 
+Started working on a Python project for data science 
+This project was to work on predicting stocks,Extracting stocks from websites with the use of webscraping 
