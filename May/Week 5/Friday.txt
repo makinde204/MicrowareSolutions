@@ -1,2 +1,4 @@
-31/05/2024
-Made my daily commit 
+Extracting data for AMD(Advanced Micro Devices)
+Using the yfinance and pandas 
+also using the Ticker to create an object 
+this helped me to check through the history check the info i also plotted a graph to show the max of the stocks of Apple and AMD
