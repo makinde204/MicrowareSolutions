@@ -1,2 +1,8 @@
 3/06/2024
 Made daily commit 
+Worked on amazon stocks and netflix web scraping 
+Useed yfinance to extract stock data 
+Used wedscrapping to extract Tesla Revenue Data 
+Used webscraping to extract gamestop Revenue data 
+Plot Tesla stock graph 
+plot gamestop graph 
