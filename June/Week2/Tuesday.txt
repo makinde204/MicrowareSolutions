@@ -1,0 +1,3 @@
+11/06/2024
+Made daily commit 
+Started a course on SQL related to Data Science 
