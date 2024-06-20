@@ -1,2 +1,4 @@
 20/06/2024
 Made daily commit
+Made use of python programming language for Automation
+Made use of Selenium for webscraping and Automation
