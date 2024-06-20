@@ -1,2 +1,4 @@
 Made daily commit 
 19/06/2024
+Worked on webscrapping 
+used webscrapping to extract information from a website and make a list with the information, and then created a file and saved it to it 
