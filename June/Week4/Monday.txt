@@ -1,2 +1,4 @@
 24/06/2024
 Made entry
+Worked on importing a datasets
+Accessing databases with python 
