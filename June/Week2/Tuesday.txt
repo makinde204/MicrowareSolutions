@@ -1,3 +1,5 @@
 11/06/2024
 Made daily commit 
 Started a course on SQL related to Data Science 
+I delved into the world of SQL an databases focusing on mastering fundamental commands such as SELECT,COUNT and LIMIT.
+I used this basic commands to count the numbers of rows or items in a dataset and manipulate the data 

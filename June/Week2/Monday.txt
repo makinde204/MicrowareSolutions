@@ -1,3 +1,4 @@
 Made daily commit 
 10/06/2024
 Worked with watson studio to create a data science project and imported a Jupyter Notebook to watson and carried out the project from watson studio 
+I utilized watson studio to initiate a new data science project.This involeve a jupyter notebook into the watson environment,allowing for seamless project exevution with in the platform 

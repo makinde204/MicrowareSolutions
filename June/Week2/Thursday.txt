@@ -1,2 +1,4 @@
 13/06/2024
 Made commit 
+I expaned my SQL knowledge base by exploring more adavanced commands including INSERT,UPDATE and DELETE.
+These commands empowers efficient data manipulation and ensure database integrity 
