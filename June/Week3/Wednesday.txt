@@ -1,4 +1,6 @@
 Made daily commit 
 19/06/2024
 Worked on webscrapping 
-used webscrapping to extract information from a website and make a list with the information, and then created a file and saved it to it 
+WEB SCRAPING FOR DATA EXTRACTION 
+Employed web scraping techniques to gather specific information from a target website, this involved extracting the desired data and organizing it into a dictionary list .I created a new file and saved the extracted information 
+
