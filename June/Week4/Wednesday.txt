@@ -1,2 +1,8 @@
 26/06/2024
 Made daily commit 
+Data wrangling 
+Working with the method of how to resolve missind data 
+replaced the null or NaN values with the mean of the column 
+Corrected data types using the astype() method
+Data tranformation and data standardization 
+Binning 

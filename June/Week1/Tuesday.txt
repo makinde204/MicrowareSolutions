@@ -1,2 +1,3 @@
 made daily commit
 4/06/2024
+I used pyton to interact with a public API and retrieve relevant data process and stored the retrieved data for further analysis 

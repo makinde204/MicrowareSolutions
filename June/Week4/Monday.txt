@@ -1,4 +1,4 @@
 24/06/2024
 Made entry
-Worked on importing a datasets
+Worked on importing a datasets in python, with the use of python libraries 
 Accessing databases with python 

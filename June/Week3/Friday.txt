@@ -1,2 +1,4 @@
 Made daily commit 
 21/06/2024
+WEB DEVELOPMENT FUNDAMENTALS HTML AND STRUCTURED ORGANIZATION
+I dived deeper into the foundational concepts of web development by focusing on the core structure of HTML .This involved exploring HTML elements including list elements,nesting and indentations 

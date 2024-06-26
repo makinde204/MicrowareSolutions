@@ -1,2 +1,9 @@
 25/06/2024
 Made daily commit 
+Pre processing of data in python 
+	Identify and handle missing values 
+	Data Formatting 
+	Data Normalization (centering/scaling)
+	Data binning
+	Turning Categorical to numeric variables
+

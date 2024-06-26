@@ -2,3 +2,6 @@
 Made daily commit
 Made use of python programming language for Automation
 Made use of Selenium for webscraping and Automation
+
+AUTOMATING WEBSCRAPPING WITH PYTHON AND SELENIUM 
+Leveraged python programming capabilities to automate the webscrapping process utilized on wednesday.I integrated the selenium library to effectively interact with the website and extract data effectively,through this i was able to perform activities on a website with automation 
