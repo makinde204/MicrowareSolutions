@@ -1,1 +1,5 @@
 Worked on an SAP assignment to update the witholding tax of suppliers accounts 
+Data manipulation with Numpy 
+I imported the Numpy library and integrated it with pandas dataframe 
+I applied Numpy functions to manipulate the data 
+I made use of Numpy to calculate the main GDP

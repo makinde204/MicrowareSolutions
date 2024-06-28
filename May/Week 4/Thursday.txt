@@ -1,1 +1,4 @@
 Worked on an SAP assignment to update the witholding tax of suppliers accounts 
+Saving processed data to  CSV 
+After processing and manipulatinf the data ,I made use of the to_csv() method pandas to export the dataframe to a CSV file
+I ensured the CSV file was correctly formatted and all necessary data was included 

@@ -1,4 +1,5 @@
 21/05/2024
 Made my daily commit 
-Worked with APIs,How to use the get requests and post request 
-worked on SAP assignment ,on updating the witholding tax under the accounting,in the busiensss partner module 
+
+I made use of pandas.read_html() method to directly read tables from the website URL into a dataframe 
+I cleand and processed the data,handeled missing,corrected data types and figured out irrelevant information 
