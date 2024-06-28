@@ -2,3 +2,5 @@
 Made daily commit
 Worked on web scraping using the Beautifulsoap library and the requests library 
 NBA players salary
+I used Beaytifulsoup and Requests libraries to scrape NBA players salary data froma website 
+I sent HTTP requests to retrieve HTML content parsing the HTML content using Beautifulsoup to extract relevant pplayer salary information 

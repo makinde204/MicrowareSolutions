@@ -2,3 +2,6 @@
 Made daily commit 
 Started working on a Python project for data science 
 This project was to work on predicting stocks,Extracting stocks from websites with the use of webscraping 
+I focused on stock prediction 
+I identified relevant data sources for stock information 
+I made use of yfinance as a suitable library to retrieve previous history stock information

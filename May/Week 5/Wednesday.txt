@@ -2,3 +2,5 @@
 Made my daily commit
 Data Visualization of a set of Diabetic and Non-Diabetic people with the use of the matplotlib and the seaborn libraries and used a piechart as the display 
 plt.pie()
+I created a piechart Visualization using maplotlib and seaborn to compare the distribution of diabetic and non-diabetic patients in a dataset
+I imported and explored the data and made use of the plt.pie function to represent the proportions of diaebtic and non-diabetic

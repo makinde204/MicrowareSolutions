@@ -2,3 +2,5 @@
 Made daily commit 
 Worked with reading and saving different file formats 
 Data engineering and its processes 
+I performed file processing to save the extracted data in a CSVformat 
+I explored data cleaning and transformation techniques for preparing the scraped data for further analysis 
