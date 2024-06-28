@@ -1,0 +1,24 @@
+28/06/2024
+Made daily commit
+SAP Cloud ERP Exploration:
+Gained foundational knowledge about cloud software.
+Explored SAP's cloud ERP solutions, including deployment options (Grow with SAP and Rise with SAP).
+Learned about setting up an implementation project for the cloud environment.
+Distinguished between SAP S/4HANA public and private cloud editions.
+Additional Learnings:
+
+SAP Cloud ALM: Tools and technologies used for application lifecycle management.
+SAP Best Practices: Understanding best solutions, integration, and extensibility.
+Cloud Computing Fundamentals:
+
+Definition of cloud computing and its benefits: elasticity, affordability, availability, security, innovation, and agility.
+Data center concepts.
+Cloud Deployment Models:
+
+Public, private, and hybrid cloud models were explored.
+
+Cloud Services:
+
+SaaS (Software as a Service)
+PaaS (Platform as a Service)
+IaaS (Infrastructure as a Service)

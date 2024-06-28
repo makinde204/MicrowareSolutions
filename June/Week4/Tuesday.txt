@@ -7,3 +7,6 @@ Pre processing of data in python
 	Data binning
 	Turning Categorical to numeric variables
 
+Data Preprocessing:
+Cleaned and formatted dataframes in Python.
+Performed data normalization and scaling.

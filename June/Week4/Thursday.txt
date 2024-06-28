@@ -1,2 +1,12 @@
 27/06/2024
 Made my daily commit 
+Exploratory Data Analysis (EDA):
+Performed initial analysis to understand the data's characteristics.
+Identified relationships between variables.
+Extracted relevant features.
+Key Techniques Used:
+
+Descriptive statistics
+GroupBy analysis (e.g., grouping by specific features)
+ANOVA (analysis of variance)
+Correlation analysis (including advanced correlation statistics)

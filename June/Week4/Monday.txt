@@ -2,3 +2,7 @@
 Made entry
 Worked on importing a datasets in python, with the use of python libraries 
 Accessing databases with python 
+Data Acquisition (Mon):
+Leveraged Python libraries to import various datasets for analysis.
+Performed deep cleaning and formatting on dataframes to ensure data quality.
+Explored different methods for accessing databases using Python to potentially integrate additional data sources.
