@@ -1,3 +1,5 @@
 13/05/2024
 Today I made my daily commit 
 worked on some labs on files , creating Reading and appending to a file 
+Practiced filr handling operations in python 
+I explored reading and writing data to text files,this involved Understandinghow to open files in different modes(read,write,append) reading line by line and writing the data to files with proper formatting 

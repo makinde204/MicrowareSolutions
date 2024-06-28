@@ -1,2 +1,5 @@
 17/05/2024
 Today I made my daily commit 
+Worked with API for data retrieval and processing 
+I explored APIs and used them to extract data from external souces 
+I focused on using REST APIs for data retrievaland performed basic tasks 

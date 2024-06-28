@@ -1,2 +1,5 @@
 14/05/2024
 Made my daily commit 
+Panda library for data manipulation 
+I worked with pandas to read a CSV file containing customer information.
+I perforemed operations like selecting specific columns,filtering data based on criteria,and editing existing data with the dataframe 
