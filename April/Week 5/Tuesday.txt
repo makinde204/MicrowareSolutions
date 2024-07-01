@@ -1,3 +1,4 @@
 Today i made my commit 
 30/04/2024
-
+I got introduced to SQL in data science,learn about libraries for data science,datasets. sources of datasets,Application programming interfaces(APIs) which is used for communication between software 
+  

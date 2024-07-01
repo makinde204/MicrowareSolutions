@@ -1,2 +1,4 @@
 10/05/2024
 Made my daily commit 
+I performed text analysis using python, I worked on a dataset of customer reviews which where in form of string literals 
+I converted text to lowercase determined the frequency of each wor in the custoemer feedback,then created a code to count specific words in the dataset to determine the amount of time set appears 

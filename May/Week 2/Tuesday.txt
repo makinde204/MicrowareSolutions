@@ -1,4 +1,5 @@
 7/05/2024
 Made daily commit 
 Worked on requirements in collection of data 
-worked on modelling data for predictive analysis 
+worked on modelling data for predictive analysis
+After i collected the data and necessary formats,I had to understand the data i was given and prepare the data for use.I made use of the some python libraries in jupyter notebook to manipulate the data so it can be ready for analysis and disregarded unecessary data 

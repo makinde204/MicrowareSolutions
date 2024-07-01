@@ -1,2 +1,3 @@
-5/03/2024
+3/05/2024
 Maintained version control 
+I did an introduction to Rstudio and R basics I learnt how to plot graphs with R language,I learnt mor about Github,how to create repositories from the command line. I did some hands on lab in creating a jupyter notebook and working with some of it's features shared my jupyter notebook on Github

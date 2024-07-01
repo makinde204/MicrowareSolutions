@@ -1,0 +1,4 @@
+30/05/2024
+I learnt about categories of data science toolsunder the categories there are open sources tools, commercial tools ,cloud based tools 
+I also got introduced to python and R language with respect to Data science 
+

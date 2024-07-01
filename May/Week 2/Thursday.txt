@@ -1,2 +1,3 @@
 9/05/2024
 Made my daily entry
+After i modelled the data from the previous day ,I evalauated the model after testing and training it with the test data to make sure the model is fully functional for deployment 

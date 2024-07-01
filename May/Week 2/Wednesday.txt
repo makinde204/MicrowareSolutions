@@ -1,2 +1,4 @@
 8/05/2024
 Made daily commit 
+From the previous day i had prepare data for analysis and modellig .
+I had to import some libraries and dependies to build decision trees and also some libraries to draw and display the model after plotting the model, I used test data to make and test the model  

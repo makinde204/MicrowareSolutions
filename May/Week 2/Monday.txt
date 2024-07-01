@@ -1,2 +1,4 @@
 6/05/2024
-I maintained version controlled by making my daily commit 
+I maintained version controlled by making my daily commit
+ Today i worked on understanding the business problem which is called business understanding ,then i worked on anlysising the problem to choose the best analytic approach to the problem.
+ After choosing anlytic method certain data requirements needed to  collected 
