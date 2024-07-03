@@ -1,2 +1,7 @@
 02/07/2024
 Made commit 
+worked on correlation and causation 
+visualization with Heatmap
+worked on grouping and grouping by 
+worked with value count 
+And worked on identifying the levels of correlation with items in a dataframe 
