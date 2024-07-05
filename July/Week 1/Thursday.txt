@@ -1,2 +1,3 @@
 made commit 
 4/07/2024
+Model Building with Linear Regression: This session introduced me to the world of model development by exploring simple linear regression. I learned how to leverage this technique, which involves one dependent variable and one independent variable, to predict a target variable based on its relationship with a single predictor variable. This involved hands-on practice with Python libraries to build a simple linear regression model.

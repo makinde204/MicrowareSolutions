@@ -5,3 +5,7 @@ Explaining artificial intelligence in SAP Solutions
 Understanding sustainability in SAP solutions 
  
  worked with value count method 
+ Deep Dive into SAP Cloud ERP: This day focused on exploring the capabilities of SAP Cloud ERP, a powerful enterprise resource planning system delivered through the cloud. The session provided insights into:
+Artificial Intelligence in SAP Solutions: How artificial intelligence is being integrated into SAP to automate tasks, improve decision-making, and enhance user experiences.
+Sustainability in SAP Solutions: How SAP empowers businesses to adopt sustainable practices within their operations. This included exploring functionalities for waste reduction, resource optimization, and environmental impact measurement.
+Data Analysis Techniques: Further explored data analysis techniques, specifically working with the value_counts() method to analyze the frequency of different values within a dataset.

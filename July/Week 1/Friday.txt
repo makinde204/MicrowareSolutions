@@ -1,2 +1,3 @@
 Made daily commit 
 5/07/2024
+Exploring Multiple Linear Regression: This day built upon the foundation of linear regression by introducing multiple linear regression. This powerful technique allows us to analyze the relationship between one target variable and two or more predictor variables, providing a more comprehensive understanding of the factors influencing the target variable. The session involved both theoretical explanations and practical exercises to build a multiple linear regression model using Python libraries.

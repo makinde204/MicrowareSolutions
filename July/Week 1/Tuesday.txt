@@ -5,3 +5,5 @@ visualization with Heatmap
 worked on grouping and grouping by 
 worked with value count 
 And worked on identifying the levels of correlation with items in a dataframe 
+Understanding Relationships in Data: This session delved into the concepts of correlation and causation, differentiating between these two statistical terms that often get confused. It also explored visualization techniques like heatmaps to visually represent correlations between variables within a dataset.
+Data Grouping & Manipulation: Hands-on practice with data grouping techniques, including groupby() and value_counts(), to explore patterns and subgroups within the data. This exercise helped identify levels of correlation between different elements within the dataframe.
