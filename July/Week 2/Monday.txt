@@ -1,2 +1,14 @@
 8/07/2024
 Made daily commit 
+Model evaluatio using visualization 
+regression plot 
+Residual plot
+muitiple linear regression 
+polynomial regression and pipelines 
+
+Measures for in sample evaluation 
+    R-squared
+    Mean squared error(Mse)
+
+  prediction and decision making 
+    
