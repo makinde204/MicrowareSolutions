@@ -1,2 +1,4 @@
 Made daily commit 
 10/07/2024
+Learned about SAP S/4HANA, the next-gen business suite. It's a central system for finance, analytics & transactions. Runs on SAP HANA database for speed and integrates with other applications. Offers cloud & on-premise deployments with various functionalities.
+Learned about 2-tier ERP deployment models & SAP Business AI. 2-tier ERP uses different systems (SAP S/4HANA etc.) for HQ & subsidiaries for standardization & flexibility. SAP Business AI integrates AI across SAP solutions (e.g. SAP S/4HANA) for automation & data insights. Examples include GoodYear using it to streamline customer interactions & ZF Friedrichshafen for intelligent demand 
