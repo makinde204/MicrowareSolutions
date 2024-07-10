@@ -1,2 +1,17 @@
 Made daily commit
 9/07/2024
+Learned about Artificial Intelligence (AI) in SAP Solutions.
+AI is embedded across SAP products (SAP Business AI) and helps automate processes and gain insights from data.
+Explored how SAP Business AI is used by real customers like Goodyear, Aspen Pumps, ZF Friedrichshafen and Accenture.
+Also learned about Joule, a next-generation digital assistant powered by generative AI.
+
+Learned about Sustainability in SAP Solutions.
+Sustainability is a major trend with growing pressure from customers, investors, employees, and regulators.
+Explored how SAP integrates sustainability into core business processes with SAP Cloud for Sustainable Enterprises.
+This solution helps businesses manage their environmental footprint, reduce waste, and be socially responsible.
+It includes features for ESG reporting, climate action, circular economy, and social responsibility.
+
+
+
+Summary
+Learned about AI & Sustainability in SAP. AI (SAP Business AI) automates processes & uses data for insights. Explored how SAP integrates both into solutions like Joule (generative AI assistant) & SAP Cloud for Sustainable Enterprises, which helps businesses be environmentally friendly & socially responsible.
