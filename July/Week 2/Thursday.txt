@@ -1,2 +1,3 @@
 Made commit
 11/07/2024
+Learned about SAP S/4HANA cloud ERP with 2 deployment options: public & private edition. Explored GROW with SAP & RISE with SAP, enablement packages for cloud ERP. Analyzed the components of these packages including SAP Build for extension & automation, plus CPEA credits for cloud platform services. Briefly reviewed digital access licensing models for cloud ERP users and softwares.
