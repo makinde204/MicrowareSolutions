@@ -1,2 +1,7 @@
 Made a commit 
 12/07/2024
+Focused on model refinement today. Explored techniques to tackle overfitting and underfitting, including model selection methods. Additionally, investigated Ridge Regression and Grid Search, likely for hyperparameter tuning.
+
+
+
+
