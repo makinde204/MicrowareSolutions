@@ -1,2 +1,3 @@
 Made a commit
 16/07/2024
+Delved deeper into model improvement strategies. Applied Ridge Regression to address overfitting concerns by introducing L2 regularization. Utilized Grid Search to optimize hyperparameter tuning for the Ridge Regression model, aiming to enhance predictive accuracy.
